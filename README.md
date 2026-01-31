@@ -2,7 +2,7 @@
 
 A simple Eleventy static site template ready for deployment to QuantCDN.
 
-[![Deploy to QuantCDN](https://www.quantcdn.io/img/quant-deploy-btn-sml.svg)](https://dashboard.quantcdn.io/projects/add/jamstack/ssg-eleventy)
+[![Deploy to QuantCDN](https://www.quantcdn.io/img/quant-deploy-btn-sml.svg)](https://dashboard.quantcdn.io/deploy/static/ssg-eleventy)
 
 ## Features
 
