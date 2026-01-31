@@ -1,0 +1,10 @@
+[{
+    "title": "Eleventy",
+    "url": "/deploy/step-one?template=ssg-eleventy",
+    "summary": "A simpler static site generator with zero client-side JavaScript.",
+    "content": "Deploy Eleventy, the flexible static site generator. Supports multiple template languages, has minimal configuration, and produces fast, lightweight sites.",
+    "categories": ["javascript"],
+    "tags": ["eleventy", "11ty", "static", "ssg"],
+    "template_type": "ssg",
+    "requires_db": false
+}]
